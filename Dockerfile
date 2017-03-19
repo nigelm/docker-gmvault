@@ -19,7 +19,7 @@ RUN apk add --update \
 #
 #
 LABEL org.freenas.interactive="true" \
-      org.freenas.version="0.0.2" \
+      org.freenas.version="0.0.3" \
       org.freenas.upgradeable="true" \
       org.freenas.expose-ports-at-host="false" \
       org.freenas.autostart="false" \
